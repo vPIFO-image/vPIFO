@@ -1,0 +1,67 @@
+# buffer size (in total) in KiB
+buffer_size = 5120
+shared_memory=false
+buffer_management_policy = "Equal Division"
+dt_shift_alpha = 0
+log_queue_length = false
+log_queue_length_port = 0
+queue_length_file = "/dev/shm/dpdk-qlen.log"
+ecn_enable = false
+# ecn threshold in KB
+ecn_threshold = 32
+# rate limit
+tx_rate_mbps = 99999
+# bucket size in bytes
+bucket_size = 5000
+# host port
+port = 0
+# default forwarding port
+default_port=1
+# RTT in us
+rtt=30
+
+# Scheduler
+# 2 nodes, 3 flows for each node
+inter_node="SP"
+intra_node="SP"
+# flows managed by node 1
+flow0_src_port=8081
+flow1_src_port=8082
+flow2_src_port=8083
+# flows managed by node 1
+flow3_src_port=8084
+flow4_src_port=8085
+flow5_src_port=8086
+
+# SP params
+priority_node_0=1
+priority_node_1=2
+
+priority_flow_0=1
+priority_flow_1=2
+priority_flow_2=3
+
+priority_flow_3=1
+priority_flow_4=2
+priority_flow_5=3
+
+# WFQ params
+weight_node_0=1
+weight_node_1=1
+
+weight_flow_0=1
+weight_flow_1=1
+weight_flow_2=2
+
+weight_flow_3=1
+weight_flow_4=1
+weight_flow_5=2
+
+# PFabric params
+flow_size_0=15000
+flow_size_1=15000
+flow_size_2=15000
+
+flow_size_3=15000
+flow_size_4=15000
+flow_size_5=15000

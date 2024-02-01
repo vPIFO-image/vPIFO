@@ -1,0 +1,247 @@
+type:0, idle_cycle:10
+type:1, tree_id:10, meta:0, priority0:105400, priority1:0
+type:2
+type:1, tree_id:20, meta:1, priority0:105400, priority1:0
+type:2
+type:1, tree_id:10, meta:2, priority0:158100, priority1:2108
+type:2
+type:1, tree_id:20, meta:3, priority0:158100, priority1:2108
+type:2
+type:1, tree_id:10, meta:4, priority0:210800, priority1:4216
+type:2
+type:1, tree_id:20, meta:5, priority0:210800, priority1:4216
+type:2
+type:1, tree_id:10, meta:6, priority0:105400, priority1:6324
+type:2
+type:1, tree_id:20, meta:7, priority0:105400, priority1:6324
+type:2
+type:1, tree_id:10, meta:8, priority0:158100, priority1:8432
+type:2
+type:1, tree_id:20, meta:9, priority0:158100, priority1:8432
+type:2
+type:1, tree_id:10, meta:10, priority0:210800, priority1:10540
+type:2
+type:1, tree_id:20, meta:11, priority0:210800, priority1:10540
+type:2
+type:1, tree_id:10, meta:12, priority0:105400, priority1:12648
+type:2
+type:1, tree_id:20, meta:13, priority0:105400, priority1:12648
+type:2
+type:1, tree_id:10, meta:14, priority0:158100, priority1:14756
+type:2
+type:1, tree_id:20, meta:15, priority0:158100, priority1:14756
+type:2
+type:1, tree_id:10, meta:16, priority0:210800, priority1:16864
+type:2
+type:1, tree_id:20, meta:17, priority0:210800, priority1:16864
+type:2
+type:1, tree_id:10, meta:18, priority0:105400, priority1:18972
+type:2
+type:1, tree_id:20, meta:19, priority0:105400, priority1:18972
+type:2
+type:1, tree_id:10, meta:20, priority0:158100, priority1:21080
+type:2
+type:1, tree_id:20, meta:21, priority0:158100, priority1:21080
+type:2
+type:1, tree_id:10, meta:22, priority0:210800, priority1:23188
+type:2
+type:1, tree_id:20, meta:23, priority0:210800, priority1:23188
+type:2
+type:0, idle_cycle:107
+type:1, tree_id:10, meta:24, priority0:105400, priority1:25296
+type:2
+type:1, tree_id:20, meta:25, priority0:105400, priority1:25296
+type:2
+type:1, tree_id:10, meta:26, priority0:158100, priority1:27404
+type:2
+type:1, tree_id:20, meta:27, priority0:158100, priority1:27404
+type:2
+type:1, tree_id:10, meta:28, priority0:210800, priority1:29512
+type:2
+type:1, tree_id:20, meta:29, priority0:210800, priority1:29512
+type:2
+type:1, tree_id:10, meta:30, priority0:105400, priority1:31620
+type:2
+type:1, tree_id:20, meta:31, priority0:105400, priority1:31620
+type:2
+type:1, tree_id:10, meta:32, priority0:158100, priority1:33728
+type:2
+type:1, tree_id:20, meta:33, priority0:158100, priority1:33728
+type:2
+type:1, tree_id:10, meta:34, priority0:210800, priority1:35836
+type:2
+type:1, tree_id:20, meta:35, priority0:210800, priority1:35836
+type:2
+type:1, tree_id:10, meta:36, priority0:105400, priority1:37944
+type:2
+type:1, tree_id:20, meta:37, priority0:105400, priority1:37944
+type:2
+type:1, tree_id:10, meta:38, priority0:158100, priority1:40052
+type:2
+type:1, tree_id:20, meta:39, priority0:158100, priority1:40052
+type:2
+type:1, tree_id:10, meta:40, priority0:210800, priority1:42160
+type:2
+type:1, tree_id:20, meta:41, priority0:210800, priority1:42160
+type:2
+type:1, tree_id:10, meta:42, priority0:105400, priority1:44268
+type:2
+type:1, tree_id:20, meta:43, priority0:105400, priority1:44268
+type:2
+type:1, tree_id:10, meta:44, priority0:158100, priority1:46376
+type:2
+type:1, tree_id:20, meta:45, priority0:158100, priority1:46376
+type:2
+type:1, tree_id:10, meta:46, priority0:210800, priority1:48484
+type:2
+type:0, idle_cycle:107
+type:1, tree_id:20, meta:47, priority0:210800, priority1:48484
+type:2
+type:1, tree_id:10, meta:48, priority0:105400, priority1:50592
+type:2
+type:1, tree_id:20, meta:49, priority0:105400, priority1:50592
+type:2
+type:1, tree_id:10, meta:50, priority0:158100, priority1:52700
+type:2
+type:1, tree_id:20, meta:51, priority0:158100, priority1:52700
+type:2
+type:1, tree_id:10, meta:52, priority0:210800, priority1:54808
+type:2
+type:1, tree_id:20, meta:53, priority0:210800, priority1:54808
+type:2
+type:1, tree_id:10, meta:54, priority0:105400, priority1:56916
+type:2
+type:1, tree_id:20, meta:55, priority0:105400, priority1:56916
+type:2
+type:1, tree_id:10, meta:56, priority0:158100, priority1:59024
+type:2
+type:1, tree_id:20, meta:57, priority0:158100, priority1:59024
+type:2
+type:1, tree_id:10, meta:58, priority0:210800, priority1:61132
+type:2
+type:1, tree_id:20, meta:59, priority0:210800, priority1:61132
+type:2
+type:1, tree_id:10, meta:60, priority0:105400, priority1:63240
+type:2
+type:1, tree_id:20, meta:61, priority0:105400, priority1:63240
+type:2
+type:1, tree_id:10, meta:62, priority0:158100, priority1:65348
+type:2
+type:1, tree_id:20, meta:63, priority0:158100, priority1:65348
+type:2
+type:1, tree_id:10, meta:64, priority0:210800, priority1:67456
+type:2
+type:1, tree_id:20, meta:65, priority0:210800, priority1:67456
+type:2
+type:1, tree_id:10, meta:66, priority0:105400, priority1:69564
+type:2
+type:1, tree_id:20, meta:67, priority0:105400, priority1:69564
+type:2
+type:1, tree_id:10, meta:68, priority0:158100, priority1:71672
+type:2
+type:1, tree_id:20, meta:69, priority0:158100, priority1:71672
+type:2
+type:1, tree_id:10, meta:70, priority0:210800, priority1:73780
+type:2
+type:0, idle_cycle:107
+type:1, tree_id:20, meta:71, priority0:210800, priority1:73780
+type:2
+type:1, tree_id:10, meta:72, priority0:105400, priority1:75888
+type:2
+type:1, tree_id:20, meta:73, priority0:105400, priority1:75888
+type:2
+type:1, tree_id:10, meta:74, priority0:158100, priority1:77996
+type:2
+type:1, tree_id:20, meta:75, priority0:158100, priority1:77996
+type:2
+type:1, tree_id:10, meta:76, priority0:210800, priority1:80104
+type:2
+type:1, tree_id:20, meta:77, priority0:210800, priority1:80104
+type:2
+type:1, tree_id:10, meta:78, priority0:105400, priority1:82212
+type:2
+type:1, tree_id:20, meta:79, priority0:105400, priority1:82212
+type:2
+type:1, tree_id:10, meta:80, priority0:158100, priority1:84320
+type:2
+type:1, tree_id:20, meta:81, priority0:158100, priority1:84320
+type:2
+type:1, tree_id:10, meta:82, priority0:210800, priority1:86428
+type:2
+type:1, tree_id:20, meta:83, priority0:210800, priority1:86428
+type:2
+type:1, tree_id:10, meta:84, priority0:105400, priority1:88536
+type:2
+type:1, tree_id:20, meta:85, priority0:105400, priority1:88536
+type:2
+type:1, tree_id:10, meta:86, priority0:158100, priority1:90644
+type:2
+type:1, tree_id:20, meta:87, priority0:158100, priority1:90644
+type:2
+type:1, tree_id:10, meta:88, priority0:210800, priority1:92752
+type:2
+type:1, tree_id:20, meta:89, priority0:210800, priority1:92752
+type:2
+type:1, tree_id:10, meta:90, priority0:105400, priority1:94860
+type:2
+type:1, tree_id:20, meta:91, priority0:105400, priority1:94860
+type:2
+type:1, tree_id:10, meta:92, priority0:158100, priority1:96968
+type:2
+type:1, tree_id:20, meta:93, priority0:158100, priority1:96968
+type:2
+type:1, tree_id:10, meta:94, priority0:210800, priority1:99076
+type:2
+type:0, idle_cycle:107
+type:1, tree_id:20, meta:95, priority0:210800, priority1:99076
+type:2
+type:1, tree_id:10, meta:96, priority0:105400, priority1:101184
+type:2
+type:1, tree_id:20, meta:97, priority0:105400, priority1:101184
+type:2
+type:1, tree_id:10, meta:98, priority0:158100, priority1:103292
+type:2
+type:1, tree_id:20, meta:99, priority0:158100, priority1:103292
+type:2
+type:1, tree_id:10, meta:100, priority0:210800, priority1:105400
+type:2
+type:1, tree_id:20, meta:101, priority0:210800, priority1:105400
+type:2
+type:1, tree_id:10, meta:102, priority0:105400, priority1:107508
+type:2
+type:1, tree_id:20, meta:103, priority0:105400, priority1:107508
+type:2
+type:1, tree_id:10, meta:104, priority0:158100, priority1:109616
+type:2
+type:1, tree_id:20, meta:105, priority0:158100, priority1:109616
+type:2
+type:1, tree_id:10, meta:106, priority0:210800, priority1:111724
+type:2
+type:1, tree_id:20, meta:107, priority0:210800, priority1:111724
+type:2
+type:1, tree_id:10, meta:108, priority0:105400, priority1:113832
+type:2
+type:1, tree_id:20, meta:109, priority0:105400, priority1:113832
+type:2
+type:1, tree_id:10, meta:110, priority0:158100, priority1:115940
+type:2
+type:1, tree_id:20, meta:111, priority0:158100, priority1:115940
+type:2
+type:1, tree_id:10, meta:112, priority0:210800, priority1:118048
+type:2
+type:1, tree_id:20, meta:113, priority0:210800, priority1:118048
+type:2
+type:1, tree_id:10, meta:114, priority0:105400, priority1:120156
+type:2
+type:1, tree_id:20, meta:115, priority0:105400, priority1:120156
+type:2
+type:1, tree_id:10, meta:116, priority0:158100, priority1:122264
+type:2
+type:1, tree_id:20, meta:117, priority0:158100, priority1:122264
+type:2
+type:1, tree_id:10, meta:118, priority0:210800, priority1:124372
+type:2
+type:0, idle_cycle:107
+type:1, tree_id:20, meta:119, priority0:210800, priority1:124372
+type:2
+type:0, idle_cycle:255

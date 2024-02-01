@@ -1,0 +1,3 @@
+[submodule "hardware/FIFO"]
+	path = hardware/FIFO
+	url = https://github.com/Danishazmi29/Verilog-Code-of-Synchronus-FIFO-Design-with-verilog-test-code.git
