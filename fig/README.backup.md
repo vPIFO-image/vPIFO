@@ -45,6 +45,29 @@ This repository has hardware and software requirements.
 
 > 🔔 In this document, all 'python' and 'pip' refer to the python version of 3.8.10.
 
+### 🔧 Hardware
+
+
+
+### 📮 SDL Compiler
+
+
+
+### 🧪 Experiments
+
+DPDK Scheduler
+
+Algorithm Simulation
+
+ns-3 Simulation
+
+Tag Priority
+
+
+### 📝 SDL Compiler Use Cases
+
+TBD
+
 ## 📖 License
 
 The project is released under the MIT License.
