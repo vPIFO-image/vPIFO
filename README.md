@@ -47,7 +47,7 @@ This repository has hardware and software requirements.
 
 ## 📖 License
 
-The project is released under the MIT License.
+The project is released under the Apache-2.0 License.
 
 ## 🔗 Links
 
